@@ -19,6 +19,9 @@
     "ng2-dragula",
     "ngx-dragula"
   ],
+  "files": [
+    "dist/"
+  ],
   "author": "NathanWalker <NathanWalker>",
   "license": "MIT",
   "bugs": {
